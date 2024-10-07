@@ -1,0 +1,13 @@
+@media (max-width: 768px) {
+    .navbar {
+      overflow: hidden; /* Prevent overflow */
+    }
+  
+    .navbar-collapse {
+      max-height: 70vh; /* Limit height for mobile */
+      overflow-y: auto; /* Allow scrolling */
+    }
+  }
+  
+
+ 
